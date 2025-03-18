@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -127,3 +128,4 @@ searchBtn.addEventListener('click', ()=>{
     </script>
 </body>
 </html>
+![Image](https://github.com/user-attachments/assets/3bace567-3ecd-497a-8961-8b937ab01035)
